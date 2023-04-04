@@ -9,7 +9,7 @@ body {
 
 .homepage {
     height: 98vh;
-    min-width: 1440px;
+    width: 100%;
     background-color: hsl(212, 45%, 89%);
     display: flex;
     justify-content: center;
